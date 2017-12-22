@@ -167,6 +167,7 @@ return [
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
+        Teepluss\Console\ConsoleServiceProvider::class,
 
         /*
          * Application Service Providers...
